@@ -5,7 +5,7 @@ IFFitness é uma aplicação web onde os usuários podem montar seus planos de t
 
 ## Documentação
 
-Toda a documentação relacionada ao desenvolvimento do projeto pode ser encontrada [acessando este link.](https://github.com/Monteiro-Jr-Dev/IFFitness/docs)
+Toda a documentação relacionada ao desenvolvimento do projeto pode ser encontrada [acessando este link.](https://github.com/Monteiro-Jr-Dev/IFFitness/tree/main/docs)
 
 
 ## Stack utilizada
