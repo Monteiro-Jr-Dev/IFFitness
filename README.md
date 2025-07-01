@@ -10,7 +10,7 @@ Toda a documentação relacionada ao desenvolvimento do projeto pode ser encontr
 
 ## Stack utilizada
 
-**Front-end:** Bootstrap framework
+**Front-end:** Bootstrap framework.
 
-**Back-end:** Spring framework
+**Back-end:** Spring framework.
 
